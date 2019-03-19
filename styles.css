@@ -19,6 +19,9 @@ body {
     margin: 100px auto; 
     position: relative; 
     padding: 30px; 
+    box-shadow: 5px 5px #a287db; 
+    border-radius: 6px; 
+
 }
 
 .clock-badge {
@@ -32,7 +35,9 @@ body {
     position: absolute; 
     top: -15px; 
     left: 38%; 
-    border-radius: 4px; 
+    border-radius: 6px; 
+    box-shadow: 5px 5px #9e9da0; 
+
 
 }
 
@@ -43,5 +48,6 @@ body {
     height: 100%; 
     padding-top: 20px; 
     font-family: Orbitron, sans-serif; 
-    border-radius: 4px; 
+    border-radius: 10px; 
+    box-shadow: 5px 5px #9e9da0; 
 }
