@@ -16,11 +16,14 @@ body {
     background: #ccc; 
     width: 400px; 
     height: 175px; 
-    margin: 100px auto; 
+    margin: 250px auto; 
     position: relative; 
     padding: 30px; 
-    box-shadow: 5px 5px #a287db; 
-    border-radius: 6px; 
+    /* box-shadow: 5px 5px #a287db;  */
+    border-radius: 25px; 
+    border-style: outset; 
+    border-width: 6px; 
+    border-color: #a287db;
 
 }
 
@@ -36,7 +39,10 @@ body {
     top: -15px; 
     left: 38%; 
     border-radius: 6px; 
-    box-shadow: 5px 5px #9e9da0; 
+    /* box-shadow: 5px 5px #9e9da0;  */
+    border-style: outset; 
+    border-width: 3px; 
+    border-color: #9e9da0;  
 
 
 }
@@ -49,5 +55,8 @@ body {
     padding-top: 20px; 
     font-family: Orbitron, sans-serif; 
     border-radius: 10px; 
-    box-shadow: 5px 5px #9e9da0; 
+    /* box-shadow: 5px 5px #9e9da0; */
+    border-style: inset;   
+    border-color: #9e9da0;
+    border-width: 5px; 
 }
