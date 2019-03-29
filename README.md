@@ -2,7 +2,7 @@
 
 # Preview [HERE](https://agarcian031.github.io/digital-clock/)
 ---
-## Build a Clock Using Vanilla JS
+## Build a Clock Using JS
 ---
 ### Overview: 
 
